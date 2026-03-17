@@ -24,6 +24,19 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="680" height="1323" alt="image" src="https://github.com/user-attachments/assets/22c19e6f-4df6-441c-9325-7cbd9ca70cc3" />
+
+
+TABULAR COLUMN:
+<img width="923" height="1600" alt="image" src="https://github.com/user-attachments/assets/12aa7122-6351-4d6a-a864-f8505e110a61" />
+
+
+CALCULATIONS:
+<img width="786" height="1468" alt="image" src="https://github.com/user-attachments/assets/f2b707a9-74b0-4f21-af35-3d7ce45a8a07" />
+
+
+MARKS SPLITUP:
+<img width="1082" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee812851-5092-48df-b854-780846d9e59f" />
 
 
 
